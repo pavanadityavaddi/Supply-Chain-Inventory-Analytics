@@ -1,0 +1,87 @@
+#  Supply Chain & Inventory Analytics
+
+#About the Project
+
+Supply chain efficiency plays a critical role in business success. 
+This project focuses on analyzing order processing, inventory management, 
+warehouse performance, and delivery operations to identify opportunities 
+for improving operational efficiency and inventory planning.
+
+Using SQL, Excel, and Power BI, raw operational data was transformed into
+meaningful reports and interactive dashboards that help monitor key supply 
+chain metrics and support informed business decisions.
+
+
+# Project Goals
+
+- Evaluate warehouse performance and order processing.
+- Monitor inventory availability and reorder requirements.
+- Analyze delivery performance across different locations.
+- Measure supplier and inventory efficiency.
+- Develop interactive dashboards for operational reporting.
+
+
+
+# Technologies Used
+
+- **MySQL** – Business analysis and SQL queries
+- **Microsoft Excel** – Data cleaning, Pivot Tables, KPIs, and dashboard creation
+- **Power BI** – Data modeling, DAX measures, and interactive dashboard development
+
+---
+
+# Dataset Information
+
+The project is based on two related datasets:
+
+## Orders Dataset
+- Order Details
+- Product Information
+- Warehouse Details
+- Customer City
+- Revenue
+- Shipping Cost
+- Delivery Days
+- Order Status
+- Payment Method
+
+# Inventory Dataset
+- Product Details
+- Warehouse Information
+- Supplier Details
+- Stock Available
+- Reorder Level
+- Lead Time
+- Inventory Value
+
+
+
+# Analysis Performed
+
+- Warehouse Performance Analysis
+- Inventory & Stock Level Analysis
+- Delivery Performance Analysis
+- Product & Category Analysis
+- Supplier Performance Analysis
+- KPI Reporting and Dashboard Development
+
+
+
+# Business Outcomes
+
+The analysis helped identify:
+
+- High-performing warehouses based on revenue.
+- Products that require immediate replenishment.
+- Warehouses with higher inventory value.
+- Delivery delays across customer locations.
+- Opportunities to improve inventory planning and warehouse operations.
+
+
+
+
+# Author
+
+Vaddi Pavan Aditya
+
+Aspiring Data Analyst | SQL | Excel | Power BI | Python
